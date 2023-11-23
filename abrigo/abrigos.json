@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "Lar Doce Lar",
+        "endereco": "Av. dom João Becker",
+        "cidade": "Canoas",
+        "telefone":"5135442875",
+        "capacidade": "170"
+    },
+    {
+        "nome": "Recanto do Lar",
+        "endereco": "av Imperatriz",
+        "cidade": "Novo Hamburgo",
+        "telefone":"5134228697",
+        "capacidade": "128"
+    },
+    {
+        "nome": "Bem viver",
+        "endereco": "Rua Aparecida",
+        "cidade": "Sapucaia",
+        "telefone":"5136998754",
+        "capacidade": "250"
+    },
+    {
+        "nome": "Raio de Luz",
+        "endereco": "Rua Padre Reus",
+        "cidade": " Esteio",
+        "telefone":"5132587469",
+        "capacidade": "200"
+    }
+]
